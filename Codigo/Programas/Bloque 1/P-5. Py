@@ -1,4 +1,5 @@
-
+#Fecha:
+#Realizado por: Gustavo Andres Lechuga Escobar
 
 num1 = float(input("Digite el primer numero: "))
 num2 = float(input("Digite el segundo numero: "))
