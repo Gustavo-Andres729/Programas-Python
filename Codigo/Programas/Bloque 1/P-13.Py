@@ -1,4 +1,5 @@
-
+#Fecha:
+#Realizado por: Gustavo Andres Lechuga Escobar
 
 print("Compuerta OR")
 print(False or False)
