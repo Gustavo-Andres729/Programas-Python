@@ -1,6 +1,7 @@
 # P11.-Programa para analizar los operadores de comparacion "==, !!=, >=, <=, >, <"
 ## Fecha 2024/10/18
 ### Realizado por: Gustavo Andres Lechuga Escobar
+
 -El operador `==` compara 2 valores, si son iguales imprime "true", si son diferentes imprime "false" 
 ``` python
 
