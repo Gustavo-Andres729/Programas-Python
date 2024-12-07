@@ -1,5 +1,5 @@
-#Fecha:
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/18
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 print("Compuerta OR")
 print(False or False)
