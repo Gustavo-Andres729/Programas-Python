@@ -1,5 +1,5 @@
-#Fecha: 
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/24
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 word = "Hamster"
 print(word[-1])
