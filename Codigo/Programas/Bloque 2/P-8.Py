@@ -1,5 +1,5 @@
-#Fecha: 
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha:  02/10/24
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 calf1 = float(input("Digite su calf en una escala del 1 al 100 de la U1: "))
 calf2 = float(input("Digite su calf en una escala del 1 al 100 de la U2: "))
