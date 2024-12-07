@@ -1,4 +1,4 @@
-#Fecha:  02/10/24
+#Fecha:  2024/10/02
 #Realizado por: Gustavo Andrés Lechuga Escobar
 
 calf1 = float(input("Digite su calf en una escala del 1 al 100 de la U1: "))
