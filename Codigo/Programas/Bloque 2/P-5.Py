@@ -1,5 +1,5 @@
-#Fecha: 
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/23
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 print("COMPARACIÓN:")
 print("Perro"=="Perro") #True
