@@ -1,5 +1,5 @@
-#Fecha: 
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/24
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 edad = int(input("ingresar tu edad: "))
 if edad >= 18:
