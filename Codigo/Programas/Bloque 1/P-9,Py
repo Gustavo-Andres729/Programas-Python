@@ -1,5 +1,5 @@
-#Fecha:
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/17
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 num = 38
 print(num)
