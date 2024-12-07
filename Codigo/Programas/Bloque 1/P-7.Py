@@ -1,5 +1,5 @@
-#Fecha:
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/15
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 radio = float(input("Ingresa el valor del radio: "))
 area = 3.1416 * radio ** 2
