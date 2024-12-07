@@ -1,5 +1,5 @@
 #Fecha: 2024/10/18
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 print("Operador ==:")
 print(5 == 7)
