@@ -1,5 +1,5 @@
 #Fecha: 2024/10/17
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 print("Codigo para poner una cara triste: =\u2639")
 print(" \u2639")
