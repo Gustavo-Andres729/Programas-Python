@@ -1,4 +1,4 @@
-#Fecha:
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 06/10/2024
+#Realizado por: Gustavo Andrés Lechuga Escobar
 nombre = input("Como te llamas? ")
 print("Hola, "+nombre)
