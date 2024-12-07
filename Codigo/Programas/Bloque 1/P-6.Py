@@ -1,5 +1,5 @@
-#Fecha:
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 2024/10/15
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 base = float(input("Cuanto mide la base: "))
 altura= float(input("Cuanto mide la altura: "))
