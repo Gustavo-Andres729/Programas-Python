@@ -1,5 +1,5 @@
-#Fecha:
-#Realizado por: Gustavo Andres Lechuga Escobar
+#Fecha: 16/10/2024
+#Realizado por: Gustavo Andrés Lechuga Escobar
 
 dias = int(input("Digite la cantidad de dias: "))
 horas = dias * 24
